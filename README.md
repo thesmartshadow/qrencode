@@ -21,8 +21,8 @@ A versatile Bash script to generate QR codes with support for multiple formats, 
 - `xdg-utils` (for GUI file opening)
 - Bash shell
 
-**Debian/Ubuntu installation**:
-```bash
+Debian/Ubuntu installation:
+
 sudo apt install qrencode xdg-utils
 ```
 
