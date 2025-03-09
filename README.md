@@ -7,7 +7,7 @@ A versatile Bash script to generate QR codes with support for multiple formats, 
 
 ![QR Code Example](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/QR_Code_Example.svg/240px-QR_Code_Example.svg.png)
 
-## Features
+ Features
 ✅ **Multiple formats**: PNG, JPG, SVG, and EPS  
 ✅ **Automatic organization**: Saves codes in `~/QR_Codes` with timestamps  
 ✅ **Custom filenames**: Create human-readable names  
@@ -16,7 +16,7 @@ A versatile Bash script to generate QR codes with support for multiple formats, 
 ✅ **Input validation**: Format and parameter checks  
 ✅ **Automatic opening**: Opens generated codes in default viewer
 
-## Requirements
+ Requirements
 - `qrencode` (QR code generation)
 - `xdg-utils` (for GUI file opening)
 - Bash shell
