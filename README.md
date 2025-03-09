@@ -29,7 +29,7 @@ sudo apt install qrencode xdg-utils
 ## Installation
 1. Download the script:
 ```bash
-wget https://raw.githubusercontent.com/your-repo/qr-generator/main/qr.sh
+wget https://github.com/thesmartshadow/qrencode.git
 ```
 2. Make executable:
 ```bash
